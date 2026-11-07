@@ -1,0 +1,58 @@
+{
+  "paging": {
+    "page": 0,
+    "count": 2,
+    "maxPage": 0,
+    "itemsTotal": 2
+  },
+  "packages": [
+    {
+      "id": "br.homebrew.telabrasil",
+      "title": "Tela Brasil",
+      "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/br.homebrew.telabrasil.png",
+      "shortDescription": "Abre o Tela Brasil (streaming público do MinC) em tela cheia na TV. Login com gov.br.",
+      "category": "multimedia",
+      "pool": "main",
+      "manifestUrl": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/manifests/br.homebrew.telabrasil.json",
+      "manifest": {
+        "id": "br.homebrew.telabrasil",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Tela Brasil",
+        "appDescription": "Abre o Tela Brasil (streaming público do MinC) em tela cheia na TV. Login com gov.br.",
+        "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/br.homebrew.telabrasil.png",
+        "sourceUrl": "https://telabrasil.cultura.gov.br",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/ipk/br.homebrew.telabrasil_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "be48dae7f838c1325463733026421685f318ef4d0b1d9b3cc2951c365f1135be"
+        },
+        "ipkSize": 28954
+      }
+    },
+    {
+      "id": "com.lfkdsk.tvkeyboard",
+      "title": "Teclado TV",
+      "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/com.lfkdsk.tvkeyboard.png",
+      "shortDescription": "Digite pelo celular ou PC nos campos de texto da TV (escaneie o QR). Funciona em apps instalados por fora; tradução PT-BR do webos-tv-keyboard.",
+      "category": "utility",
+      "pool": "main",
+      "manifestUrl": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/manifests/com.lfkdsk.tvkeyboard.json",
+      "manifest": {
+        "id": "com.lfkdsk.tvkeyboard",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Teclado TV",
+        "appDescription": "Digite pelo celular ou PC nos campos de texto da TV (escaneie o QR). Funciona em apps instalados por fora; tradução PT-BR do webos-tv-keyboard.",
+        "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/com.lfkdsk.tvkeyboard.png",
+        "sourceUrl": "https://github.com/lfkdsk/webos-tv-keyboard",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/ipk/com.lfkdsk.tvkeyboard_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "66979bde1739b05e3a1e9175d30bf7e38c0a1e7cd8425cfa02969f6d1f35fa5c"
+        },
+        "ipkSize": 32958
+      }
+    }
+  ]
+}
