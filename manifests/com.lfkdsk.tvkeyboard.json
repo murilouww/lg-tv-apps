@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "web",
   "title": "Teclado TV",
-  "appDescription": "Digite pelo celular ou PC nos campos de texto da TV (escaneie o QR). Funciona em apps instalados por fora; tradução PT-BR do webos-tv-keyboard.",
+  "appDescription": "Digite pelo celular ou PC nos campos de texto da TV (escaneie o QR). Funciona em apps instalados por fora; traducao PT-BR do webos-tv-keyboard.",
   "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/com.lfkdsk.tvkeyboard.png",
   "sourceUrl": "https://github.com/lfkdsk/webos-tv-keyboard",
   "rootRequired": false,

@@ -1,17 +1,18 @@
 {
   "paging": {
-    "page": 0,
+    "page": 1,
     "count": 2,
-    "maxPage": 0,
-    "itemsTotal": 2
+    "maxPage": 1,
+    "itemsTotal": 2,
+    "prevUrl": null,
+    "nextUrl": null
   },
   "packages": [
     {
       "id": "br.homebrew.telabrasil",
       "title": "Tela Brasil",
       "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/br.homebrew.telabrasil.png",
-      "shortDescription": "Abre o Tela Brasil (streaming público do MinC) em tela cheia na TV. Login com gov.br.",
-      "category": "multimedia",
+      "shortDescription": "Abre o Tela Brasil (streaming publico do MinC) em tela cheia na TV. Login com gov.br.",
       "pool": "main",
       "manifestUrl": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/manifests/br.homebrew.telabrasil.json",
       "manifest": {
@@ -19,7 +20,7 @@
         "version": "1.0.0",
         "type": "web",
         "title": "Tela Brasil",
-        "appDescription": "Abre o Tela Brasil (streaming público do MinC) em tela cheia na TV. Login com gov.br.",
+        "appDescription": "Abre o Tela Brasil (streaming publico do MinC) em tela cheia na TV. Login com gov.br.",
         "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/br.homebrew.telabrasil.png",
         "sourceUrl": "https://telabrasil.cultura.gov.br",
         "rootRequired": false,
@@ -34,8 +35,7 @@
       "id": "com.lfkdsk.tvkeyboard",
       "title": "Teclado TV",
       "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/com.lfkdsk.tvkeyboard.png",
-      "shortDescription": "Digite pelo celular ou PC nos campos de texto da TV (escaneie o QR). Funciona em apps instalados por fora; tradução PT-BR do webos-tv-keyboard.",
-      "category": "utility",
+      "shortDescription": "Digite pelo celular ou PC nos campos de texto da TV (escaneie o QR). Funciona em apps instalados por fora; traducao PT-BR do webos-tv-keyboard.",
       "pool": "main",
       "manifestUrl": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/manifests/com.lfkdsk.tvkeyboard.json",
       "manifest": {
@@ -43,7 +43,7 @@
         "version": "1.0.0",
         "type": "web",
         "title": "Teclado TV",
-        "appDescription": "Digite pelo celular ou PC nos campos de texto da TV (escaneie o QR). Funciona em apps instalados por fora; tradução PT-BR do webos-tv-keyboard.",
+        "appDescription": "Digite pelo celular ou PC nos campos de texto da TV (escaneie o QR). Funciona em apps instalados por fora; traducao PT-BR do webos-tv-keyboard.",
         "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/com.lfkdsk.tvkeyboard.png",
         "sourceUrl": "https://github.com/lfkdsk/webos-tv-keyboard",
         "rootRequired": false,

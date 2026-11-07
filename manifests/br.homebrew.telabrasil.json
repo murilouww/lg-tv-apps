@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "web",
   "title": "Tela Brasil",
-  "appDescription": "Abre o Tela Brasil (streaming público do MinC) em tela cheia na TV. Login com gov.br.",
+  "appDescription": "Abre o Tela Brasil (streaming publico do MinC) em tela cheia na TV. Login com gov.br.",
   "iconUri": "https://raw.githubusercontent.com/murilouww/lg-tv-apps/main/icons/br.homebrew.telabrasil.png",
   "sourceUrl": "https://telabrasil.cultura.gov.br",
   "rootRequired": false,
